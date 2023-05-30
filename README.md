@@ -1,4 +1,4 @@
-# EX-no-10
+# Ex:10 Data Science Process on Complex Dataset
 # AIM:
 To Perform Data Science Process on a complex dataset and save the data to a file
 
@@ -218,4 +218,50 @@ sns.relplot(data=df1,x=df1["PetalWidthCm"],y=df1["PetalLengthCm"],hue="Species")
 
 # OUTPUT:
 ## Data Cleaning Process:
+![1](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/cd6d0aa4-cddb-4753-8c7b-311d5165e099)
+
+![2](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/ba794e7d-fb73-453a-8e64-5fd00c836fae)
+
+![3](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/8590c027-c7e5-48e1-8f52-e4547c6092e6)
+
+## Handling Outliers:
+![4](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/d8c5b88f-c389-454c-ba8b-afaab812b423)
+
+## EDA Techniques:
+![6](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/3640af92-76e7-4fa5-8181-a1f0e04c90d5)
+
+![7](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/a7ede59f-d379-41cf-900a-b1355db80b99)
+
+![8](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/9fd77d49-a1f9-4b96-8f2a-a33f72933730)
+
+![9](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/69a83512-26d9-43c1-8446-0602dda40b15)
+
+![10](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/0a46a646-e0af-4060-bc09-6d0afa237b38)
+
+![11](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/0fdbf330-19d5-4e7d-a5fc-609217d9aa40)
+
+![12](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/14a9a518-d90b-4dbe-801f-d1499d8d4b61)
+
+![13](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/10ae74a3-84a6-47fa-9eba-cb793b1fbf4c)
+
+## Feature Generation:
+![14](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/d97deca8-a37e-4a66-a82b-42b2cdd2c325)
+
+![15](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/d86833b8-2bff-4332-88e2-f27701d79d58)
+
+## Feature Transformation:
+![16](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/b6a24e35-3f02-4810-a471-4c1a5e197679)
+
+![17](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/5fc551ed-a8af-489d-9eac-592a6d7716b4)
+
+## Data Visua/lization:
+![18](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/54429932-27fe-40d6-baa6-cc651424ff74)
+
+![19](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/5ea08c89-e43e-44c1-b2ef-cfd1a25875f1)
+
+![20](https://github.com/Aishwarya-TM/EX-no-10/assets/127846109/de3e6763-925c-4ef7-8483-281829a7341b)
+
+## RESULT:
+Thus the Data Science Process on Complex Dataset were performed and output was verified successfully.
+
 
